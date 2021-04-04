@@ -5,9 +5,13 @@ Example of "biological" learning for MNIST based on the paper [Unsupervised Lear
 This contains original and modified codes for Unsupervised similarity search using Biohashing, a novel Locality Sensitive Hashing technique where the hash function is a set of synapses of dimension higher than the output with Hebbian-like weight updation rule, a development over FlyHash. We tried to recognise similar numbers from MNIST data set.
 
 
-## Author and License
-(c) V S S Anirudh Sharma
-
-Modified by
+## Original Author and License
+(c)2018 Dmitry Krotov
 -- Apache 2.0 License
+Code for Weight learning and corresponding hyperparameter tuning
+
+## Modifications
+2021 V S S Anirudh Sharma
+Similarity search added to use the learnt weights.
+
 
