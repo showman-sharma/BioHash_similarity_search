@@ -7,11 +7,11 @@ This contains original and modified codes for Unsupervised similarity search usi
 
 ## Original Author and License
 (c)2018 Dmitry Krotov
--- Apache 2.0 License
+-- Apache 2.0 License\
 Code for Weight learning and corresponding hyperparameter tuning
 
 ## Modifications
-2021 V S S Anirudh Sharma
+2021 V S S Anirudh Sharma\
 Similarity search added to use the learnt weights.
 
 
