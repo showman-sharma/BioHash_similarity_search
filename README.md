@@ -12,6 +12,8 @@ Code for Weight learning and corresponding hyperparameter tuning
 
 ## Modifications
 2021 V S S Anirudh Sharma\
-Similarity search added to use the learnt weights.
+Similarity search added to use the learnt weights.\
+### Mean shifted Bio-clustering\
+Using the learning algorithm, a novel clustering algorithm has been designed. With the number of synapses now being considered as number of clusters, and the origin being shifted to the mean of the datapoints while learning, we have partitioning clustering algorithm based on angular position with respect to the mean of data points.
 
 
