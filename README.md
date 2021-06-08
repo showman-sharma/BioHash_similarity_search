@@ -5,7 +5,8 @@ Example of "biological" learning for MNIST based on the paper [Unsupervised Lear
 
 ## Getting started
 This contains original and modified codes for Unsupervised similarity search using Biohashing, a novel Locality Sensitive Hashing technique where the hash function is a set of synapses of dimension higher than the output with Hebbian-like weight updation rule, a development over FlyHash. We tried to recognise similar numbers from MNIST data set.\
-A novel clustering algorithm has been derived from the mentioned training algorithm. We visualize the performace of this new clustering algorithm in contrast with K-means.
+A novel clustering algorithm has been derived from the mentioned training algorithm. We visualize the performace of this new clustering algorithm in contrast with K-means.\
+We also apply this clustering algorithm in fake news detection.
 
 
 
