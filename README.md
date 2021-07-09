@@ -22,5 +22,7 @@ Similarity search added to use the learnt weights.
 ## Mean shifted Bio-clustering
 Using the learning algorithm, a novel clustering algorithm has been designed. With the number of synapses now being considered as number of clusters, and the origin being shifted to the mean of the datapoints while learning, we have partitioning clustering algorithm based on angular position with respect to the mean of data points.
 
-## Application of MSBC
+## Application of MSBC: FAKE NEWS DETECTION
 Applying the algorithm for fake news detection, we achieve over 87% accuracy.
+Training dataset: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset 
+To run the fake news classifier, download the data and extract it in ```../input``` 
