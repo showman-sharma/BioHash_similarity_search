@@ -25,7 +25,7 @@ Using the learning algorithm, a novel clustering algorithm has been designed. Wi
 ## Application of MSBC: FAKE NEWS DETECTION
 Applying the algorithm for fake news detection, we achieve over 87% accuracy. To run the notebook:
 
-Find the notebook directly on kaggle: https://www.kaggle.com/vanirudhsharma/unsupervised-bio-clustering-fake-news 
-OR 
-Training dataset: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset 
+Find the notebook directly on kaggle: https://www.kaggle.com/vanirudhsharma/unsupervised-bio-clustering-fake-news \
+OR \
+Training dataset: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset \
 To run the fake news classifier, download the data and extract it in ```../input``` 
